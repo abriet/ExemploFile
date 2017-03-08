@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExemploFile</string>
+    <string name="criar">Criar</string>
+    <string name="ler">Ler</string>
+</resources>
